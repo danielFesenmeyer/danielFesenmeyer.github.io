@@ -1,4 +1,4 @@
-# Daniel Fesenmeyer's intro page
+# Intro page
 
 ✨ Coming soon: Ideas, Open Source projects, curated links
 
